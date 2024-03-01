@@ -11,7 +11,7 @@ const Projects = () => {
           With supporting text below as a natural lead-in to additional content.
         </p>
         <a
-          href="https://jitendra064.github.io/osfort/"
+          href="https://jitendra064.github.io/personalyportfolio/"
           className="btn btn-primary m-1"
           target="_blank"
         >
