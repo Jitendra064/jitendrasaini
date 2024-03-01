@@ -8,7 +8,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            Navbar
+            CodeReact
           </a>
           <button
             className="navbar-toggler"
@@ -40,7 +40,7 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <Link className="nav-link active" to="/services">
-                  Services
+                  Contact
                 </Link>
               </li>
               <li className="nav-item">
