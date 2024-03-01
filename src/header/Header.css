@@ -1,0 +1,15 @@
+nav {
+    box-shadow: 0px 1px 33px #8ba28b;
+
+    background-color: #ffffffa8;
+}
+
+
+.nav-item a {
+    color: #5fab87;
+    font-size: large;
+}
+
+.nav-item a:hover {
+    color: #3a7d5d;
+}

@@ -1,0 +1,53 @@
+.home img {
+    width: 500px;
+    border-radius: 6px;
+}
+
+
+.homeBio {
+    padding: 53px 0px 0px 0px;
+}
+
+.homeBio h1 {
+    font-family: Roboto, sans-serif;
+    position: relative;
+    font-weight: 700;
+    font-size: 4rem;
+    color: #2c3f0a;
+
+
+}
+
+
+
+
+.homeBio h1 span {
+    color: #ed0f0f;
+}
+
+#saon {
+    color: #25310f;
+}
+
+.homeBio p {
+    font-size: 1.4vw;
+}
+
+.homeBio button {
+
+    background-color: #223107e7;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+
+}
+
+.homeBio button:hover {
+    background-color: #243408;
+    color: #fff;
+}
+
+
+.card01 {
+    background-color: rgb(202 195 195);
+}

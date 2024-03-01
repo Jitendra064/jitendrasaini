@@ -1,0 +1,30 @@
+.about img {
+    border-radius: 10px;
+}
+
+.about-cls {
+    font-weight: 600;
+
+    font-size: 1.5rem;
+    color: #250101;
+}
+
+.para-1 {
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.para-2 {
+    font-weight: 500;
+    font-size: 26px;
+    color: #6d6767
+}
+
+.para-3 {
+    color: #a29c9c;
+    font-weight: bolder;
+}
+
+#About {
+    overflow: hidden;
+}

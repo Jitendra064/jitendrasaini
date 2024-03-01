@@ -1,0 +1,16 @@
+.cont-heading {
+    font-weight: 600;
+
+    font-size: 1.5rem;
+    color: #250101;
+}
+
+.formContainer {
+    margin: 4rem 0px 3rem 0px;
+}
+
+.contact-img img {
+    border-radius: 10px;
+
+
+}
