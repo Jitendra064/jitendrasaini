@@ -10,7 +10,7 @@ import "jquery-ui-dist/jquery-ui";
 const Home = (props) => {
   useEffect(() => {
     var typed = new Typed(".multitask", {
-      strings: ["React developer", "Web deployment", " Web designer"],
+      strings: ["React developer", "MERN Stack", " Web designer"],
       loop: true,
       typeSpeed: 100,
       backSpeed: 80,
