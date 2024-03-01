@@ -7,6 +7,7 @@ import Header from "./header/Header";
 import Projects from "./components/Projects";
 import Certificate from "./components/Certificate";
 import Footer from "./header/Footer";
+import "./App.css"
 
 import { Routes, Route } from "react-router-dom";
 
