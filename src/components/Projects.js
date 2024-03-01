@@ -15,21 +15,35 @@ const Projects = () => {
           className="btn btn-primary m-1"
           target="_blank"
         >
-          Osfort Website Template
+         PortFolio 
+        </a>
+        <a
+          href="https://react-product-application.netlify.app"
+          className="btn btn-primary m-1"
+          target="_blank"
+        >
+         ReactBase E-Commerce page
+        </a>
+        <a
+          href="https://jitendra064.netlify.app"
+          className="btn btn-primary m-1"
+          target="_blank"
+        >
+          Eduaction Website 
         </a>
         <a
           href="https://jitendra064.github.io/food/"
           target="_blank"
           className="btn btn-primary m-1"
         >
-          Food Website Template
+          Food Restaurant 
         </a>
         <a
           href="https://jitendra064.github.io/Ecommerce/"
           target="_blank"
           className="btn btn-primary m-1"
         >
-          Shoping Website Template
+          E-commerce 
         </a>
       </div>
 
