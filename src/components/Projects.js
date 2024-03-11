@@ -25,7 +25,7 @@ const Projects = () => {
          ReactBase E-Commerce page
         </a>
         <a
-          href="https://jitendra064.netlify.app"
+          href="https://jitendra064.github.io/osfort/"
           className="btn btn-primary m-1"
           target="_blank"
         >
